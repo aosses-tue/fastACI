@@ -13,8 +13,8 @@ function Add_paths(misc)
 %
 % Programmed by Alejandro Osses, HTI, TU/e, the Netherlands, 2014-2015
 % Created on    : 13/05/2014
-% Last update on: 13/05/2014 % Update this date manually
-% Last use on   : 31/03/2015 % Update this date manually
+% Last update on: 13/05/2014 
+% Last use on   : 31/03/2015 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 fields = fieldnames(misc);

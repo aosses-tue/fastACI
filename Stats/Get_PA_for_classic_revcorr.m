@@ -4,10 +4,10 @@ function FitInfo = Get_PA_for_classic_revcorr(ACI,Data_matrix,y)
 % This script calculates the mean square error (MSE) or the percentage of
 %  Each row of Data_matrix is a different trial
 %  y - expected output
+% PC - output variable
 %
-% PC
-%
-% Author: Alejandro Osses
+% Author: Alejandro Osses and the fastACI team
+% Date: 2021-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 [N,M] = size(ACI);

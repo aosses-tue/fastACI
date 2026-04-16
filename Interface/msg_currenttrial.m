@@ -1,3 +1,6 @@
+% Author: Leo Varnet
+% This is an inherited script from the original ACI toolbox
+
 if isfield(cfg_game,'expvar_description')
     expvar_description = [', ' cfg_game.expvar_description];
 else
